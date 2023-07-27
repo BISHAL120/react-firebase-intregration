@@ -1,0 +1,10 @@
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    color: goldenrod;
+    font-weight: 600;
+}
